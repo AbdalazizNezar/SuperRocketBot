@@ -23,7 +23,7 @@ bot = commands.Bot(command_prefix=PREFIX, owner_ids=OWNER_IDS, intents=discord.I
 
 # with open(r"C:\Users\New uSer\Documents\GitHub\Super Rocket Bot\lib\bot\token.0", "r", encoding="utf-8") as tf: 
 #     TOKEN = tf.read() # Gets the bot token
-TOKEN = 'Nzc0MzY1MzQ2NTg4OTE3NzYz.X6Wt7Q.aTT6uFa8p1IXHz4rzCIpbhVmQ8E'
+TOKEN = '#TOKEN'
 
 snipe_message_author = ""
 snipe_message_content = ""
