@@ -1,2 +1,0 @@
-# SupeRocketBot
-Super Rocket Bot is a Bot Created By #Super Rocket.py and #Penguin Master#2263. It is a multi-purpose bot, but is is mainly for moderation and currency. Our goal for this bot is for it to change everyone's discord experience into a better one. If you want to try out Super Rocket Bot by yourself, feel free to join #Super Rocket.py's discord server using this link:https://discord.gg/CzHeC7Yswy.
